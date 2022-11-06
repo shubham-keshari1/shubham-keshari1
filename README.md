@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubham-keshari1
-- 👀 I’m interested in java AI ML javascript fullstack development.
+- 👀 I’m interested in java python AI ML javascript fullstack development.
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me kesharis092@gmail.com
