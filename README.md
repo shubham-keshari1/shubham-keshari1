@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubham-keshari1
-- 👀 I’m interested in java python AI ML javascript fullstack development.
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on Java
+- 👀 I’m interested in java python R, MySql powerBI SEO, SMO, Analytics AI ML and BI tools for business analyst.
+- 🌱 I’m currently learning SEO. 
+- 💞️ I’m looking to collaborate on BI  tools. 
 - 📫 How to reach me kesharis092@gmail.com
 
 <!---
